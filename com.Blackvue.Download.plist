@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin</string>
+	</dict>
+	<key>Label</key>
+	<string>com.Blackvue.Download</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/USERNAME/Documents/Scripts/download_video_files_v2.sh</string>
+	</array>
+	<key>RunAtLoad</key>
+	<false/>
+	<key>StartInterval</key>
+	<integer>1800</integer>
+</dict>
+</plist>
